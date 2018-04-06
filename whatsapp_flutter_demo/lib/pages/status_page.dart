@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class StatusPage extends StatelessWidget
+class StatusPagea extends StatelessWidget
 {
   @override
   Widget build(BuildContext context)

@@ -68,7 +68,7 @@ class _WhatsAppUiClone extends State<WhatsAppUiClone> with SingleTickerProviderS
         children: <Widget>[
           new CameraPage(),
           new ChatsPage(),
-          new StatusPage(),
+          new CallHistory(),
           new CallHistory()
         ],
       ),
